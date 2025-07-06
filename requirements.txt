@@ -1,0 +1,6 @@
+streamlit
+telethon
+pytesseract
+Pillow
+spacy
+requests
