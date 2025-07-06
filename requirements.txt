@@ -1,6 +1,6 @@
 streamlit
-pytesseract
-pillow
-spacy
 telethon
+pytesseract
+Pillow
+spacy
 requests
